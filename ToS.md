@@ -37,4 +37,4 @@ NeoBot is intended for users aged **13 and above** (or the minimum age required 
 - Continued use of NeoBot after changes constitutes **acceptance of the updated terms**.
 
 ## 9. Contact
-For questions or concerns regarding these Terms of Service, you can reach the developer via **GitHub Issues** or **Discord** (link provided in bot docs).
+For questions or concerns regarding these Terms of Service, you can reach the developer via **GitHub Issues** or **Discord** (neony7).
