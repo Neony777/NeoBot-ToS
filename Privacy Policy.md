@@ -37,4 +37,4 @@ NeoBot takes reasonable measures to protect stored data from unauthorized access
 NeoBot may update this Privacy Policy. The latest version will always be available in the bot’s **GitHub repository**. Continued use of NeoBot after updates constitutes acceptance of the new policy.  
 
 ## 7. Contact
-For questions or concerns about this Privacy Policy, you can contact the developer via **GitHub Issues** or **Discord** (link in bot docs).
+For questions or concerns about this Privacy Policy, you can contact the developer via **GitHub Issues** or **Gmail** (neonovsky.info@gmail.com).
